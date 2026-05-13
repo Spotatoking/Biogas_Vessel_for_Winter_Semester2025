@@ -1,0 +1,135 @@
+matname,mattype,stressat40,density
+SA-1008 CSA,Carbon steel sheet,275,7750
+SA-1008 CS-B,Carbon steel sheet,275,7750
+SA-675 45,Carbon steel bar,310,7750
+SA-134 A283A,Carbon steel welded pipe,310,7750
+SA-283 A,Carbon steel plate,310,7750
+SA-285 A,Carbon steel plate,310,7750
+SA-672 A45,Carbon steel welded pipe,310,7750
+SA-414 A,Carbon steel sheet,310,7750
+SA-178 A,Carbon steel welded tube,325,7750
+SA-178 A,Carbon steel welded tube,325,7750
+SA-179,Carbon steel seamless tube,325,7750
+SA-192,Carbon steel seamless tube,325,7750
+SA-214,Carbon steel welded tube,325,7750
+SA-556 A2,Carbon steel seamless tube,325,7750
+SA-557 A2,Carbon steel welded tube,325,7750
+SA-53 E/A,Carbon steel welded pipe,330,7750
+SA-53 E/A,Carbon steel welded pipe,330,7750
+SA-53 E/A,Carbon steel welded pipe,330,7750
+SA-53 F/A,Carbon steel welded pipe,330,7750
+SA-53 S/A,Carbon steel seamless pipe,330,7750
+SA-53 S/A,Carbon steel seamless pipe,330,7750
+SA-106 A,Carbon steel seamless pipe,330,7750
+SA-135 A,Carbon steel welded pipe,330,7750
+SA-369 FPA,Carbon steel forged pipe,330,7750
+SA-587,Carbon steel welded pipe,330,7750
+SA-587,Carbon steel welded pipe,330,7750
+SA-675 50,Carbon steel bar,345,7750
+SA-675 50,Carbon steel bar,345,7750
+SA-134 A283B,Carbon steel welded pipe,345,7750
+SA-283 B,Carbon steel plate,345,7750
+SA-285 B,Carbon steel plate,380,7750
+SA-285 B,Carbon steel plate,380,7750
+SA-672 A50,Carbon steel welded pipe,380,7750
+SA-414 B,Carbon steel sheet,380,7750
+SA/EN 10028-3 P275NH,Carbon steel plate,380,7750
+SA/EN 10028-2 P235GH,Carbon steel plate,380,7750
+SA/EN 10216-2 P235GH,Carbon steel seamless tube,380,7750
+SA/EN 10028-3 P275NH,Carbon steel plate,380,7750
+SA/EN 10216-2 P235GH,Carbon steel seamless tube,380,7750
+SA/EN 10216-2 P235GH,Carbon steel seamless tube,380,7750
+SA/EN 10028-3 P275NH,Carbon steel plate,380,7750
+SA-675 55,Carbon steel bar,380,7750
+SA-675 55,Carbon steel bar,380,7750
+SA-134 A283C,Carbon steel welded pipe,78.6,7750
+SA-283 C,Carbon steel plate,78.6,7750
+SA-285 C,Carbon steel plate,88.9,7750
+SA-333 1,Carbon steel seamless and welded pipe,88.9,7750
+SA-334 1,Carbon steel seamless and welded tube,88.9,7750
+SA-334 1,Carbon steel welded tube,88.9,7750
+SA-516 55,Carbon steel plate,88.9,7750
+SA-524 II,Carbon steel seamless pipe,92.4,7750
+SA-671 CA55,Carbon steel welded pipe,78.6,7750
+SA-671 CE55,Carbon steel welded pipe,78.6,7750
+SA-672 A55,Carbon steel welded pipe,92.4,7750
+SA-672 B55,Carbon steel welded pipe,78.6,7750
+SA-672 C55,Carbon steel welded pipe,92.4,7750
+SA-672 E55,Carbon steel welded pipe,78.6,7750
+SA-414 C,Carbon steel sheet,80.7,7750
+SA/EN 10028-3 P275NH,Carbon steel plate,94.5,7750
+SA-36,Carbon steel bar,80.7,7750
+SA-36,Carbon steel plate sheet,56.5,7750
+SA-662 A,Carbon steel plate sheet,94.5,7750
+SA/IS 2062 E250A,Carbon steel plate bar shapes,94.5,7750
+SA/IS 2062 E250B,Carbon steel plate bar shapes,94.5,7750
+SA/IS 2062 E250C,Carbon steel plate bar shapes,94.5,7750
+SA/IS 2062 E250A,Carbon steel plate bar shapes,94.5,7750
+SA/IS 2062 E250B,Carbon steel plate bar shapes,80.7,7750
+SA/IS 2062 E250C,Carbon steel plate bar shapes,98.6,7750
+SA/EN 10028-2 P265GH,Carbon steel plate,98.6,7750
+SA/EN 10216-2 P265GH,Carbon steel seamless tube,98.6,7750
+SA/IS 2062 E250A,Carbon steel plate bar shapes,98.6,7750
+SA/IS 2062 E250B,Carbon steel plate bar shapes,98.6,7750
+SA/IS 2062 E250C,Carbon steel plate bar shapes,98.6,7750
+SA/EN 10216-2 P265GH,Carbon steel seamless tube,98.6,7750
+SA/EN 10216-2 P265GH,Carbon steel seamless tube,98.6,7750
+SA-181,Carbon steel forgings,100,7750
+SA-216 WCA,Carbon steel castings,103,7750
+SA-266 1,Carbon steel forgings,103,7750
+SA-350 LF1,Carbon steel forgings,103,7750
+SA-352 LCA,Carbon steel castings,103,7750
+SA-660 WCA,Carbon steel cast pipe,103,7750
+SA-675 60,Carbon steel bar,105,7750
+SA-675 60,Carbon steel bar,108,7750
+SA-765 I,Carbon steel forgings,108,7750
+SA-515 60,Carbon steel plate,108,7750
+SA-516 60,Carbon steel plate,108,7750
+SA-671 CB60,Carbon steel welded pipe,108,7750
+SA-671 CC60,Carbon steel welded pipe,108,7750
+SA-671 CE60,Carbon steel welded pipe,92.4,7750
+SA-268 TPXM-27,Wld. tube,118,7750
+SA-268 TPXM-27,Smls. tube,128,7750
+SA-479 XM-27,Bar,128,7750
+SA-731 TPXM-27,Smls. pipe,128,7750
+SA-731 TPXM-27,Wld. pipe,109,7750
+SA-731 TPXM-33,Smls. pipe,128,7750
+SA-731 TPXM-33,Wld. pipe,109,7750
+SA-240 XM-33,Plate,134,7750
+SA-268 TPXM-33,Smls. tube,134,7750
+SA-268 TPXM-33,Wld. tube,114,7750
+SA-479 29-4,Bar,138,7750
+SA-240 ...,Plate,158,7750
+SA-268 29-4,Smls. tube,158,7750
+SA-268 29-4,Wld. tube,134,7750
+SA-479 ...,Bar,148,7750
+SA-240 ...,Plate,125,7750
+SA-268 29-4-2,Smls. tube,158,7750
+SA-268 29-4-2,Wld. tube,158,7750
+SA-268 ...,Smls. tube,177,7750
+SA-268 ...,Wld. tube,125,7750
+SA-372 D,Forgings,207,7750
+SA-487 2,Castings,168,7750
+SA-487 2,Castings,177,7750
+SA-302 A,Plate,148,7750
+SA-672 H75,Wld. pipe,148,7750
+SA-302 B,Plate,158,7750
+SA-533 A,Plate,158,7750
+SA-533 A,Plate,177,7750
+SA-533 D,Plate,158,7750
+SA-533 D,Plate,177,7750
+SA-533 D,Plate,197,7750
+SA-302 C,Plate,158,7750
+SA-533 B,Plate,158,7750
+SA-672 H80,Wld. pipe,158,7750
+SA-672 J80,Wld. pipe,158,7750
+SA-533 B,Plate,177,7750
+SA-672 J90,Wld. pipe,177,7750
+SA-533 B,Plate,197,7750
+SA-672 J100,Wld. pipe,197,7750
+SA-302 D,Plate,158,7750
+SA-533 C,Plate,158,7750
+SA-533 E,Plate,158,7750
+SA-533 C,Plate,177,7750
+SA-533 E,Plate,177,7750
+SA-533 C,Plate,197,7750
